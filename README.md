@@ -36,6 +36,6 @@ I also provide python code for the same model but with Keras package, you can co
  
 
 #### Disclaimer
-***I did'nt make this without looking at internet at all. You may notice some lines that same with a code from some websites, I make this repository in purpose to show how I put things together. Still use some packages that doesnt affect the model that much.***
+***I didn't make this without looking at internet at all. You may notice some lines that same with a code from some websites, I make this repository in purpose to show how I put things together. and I still use some packages that doesnt affect the model that much.***
 
 ***I will update this repository to make it better***
