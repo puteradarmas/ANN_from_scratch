@@ -26,4 +26,4 @@ Optimizer;
 # Disclaimer
 ***I did'nt make this without looking at internet at all. You may notice some lines that same with a code from some websites, I make this repository in purpose to show how I put things together. Still use some packages that doesnt affect the model that much.***
 
-**I_will_update_this_repository_to_make_it_better**
+***I will update this repository to make it better***
