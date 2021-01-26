@@ -16,11 +16,12 @@ Optimizer;
 
 
 ## Dependencies
--Main
+- Main
   - Numpy
   - Pandas
   - RobustScaler  (I will include formulas and reasoning)
--Optional
+  
+- Optional
   - confusion_matrix , classification_report from sklearn.metrics (Not affecting the model, I used this only to take a quick look to my model performance) 
 
 # Disclaimer
