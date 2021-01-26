@@ -14,7 +14,7 @@ For the activation;
 Optimizer;
 - Adam
 
-I also provide python code for the same model but with Keras package
+I also provide python code for the same model but with Keras package, you can compare both model performance using same dataset from csv file, provided near the end.
 
 
 ### Dependencies
